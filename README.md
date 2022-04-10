@@ -1,1 +1,1 @@
-# ebay-jmeter-webdriver-sample
+# jmeter-webdriver-sample
